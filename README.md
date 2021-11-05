@@ -1,2 +1,2 @@
 # personalnotes
-Personal notes
+Personal notes is a personal project
